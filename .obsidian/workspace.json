@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.变量与字符串.md",
+                "file": "一些关于平面设计的讨论/从规律中学习方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.变量与字符串"
+              "title": "从规律中学习方法"
             }
           }
         ]
@@ -196,7 +196,9 @@
   },
   "active": "c7e60af5f0b3e5b4",
   "lastOpenFiles": [
-    "README.md",
-    "1.变量与字符串.md"
+    "1.变量与字符串.md",
+    "一些关于平面设计的讨论/从规律中学习方法.md",
+    "一些关于平面设计的讨论",
+    "README.md"
   ]
 }
