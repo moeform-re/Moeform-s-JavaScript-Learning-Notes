@@ -89,25 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9d92fc0a9152665",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1.变量与字符串.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "1.变量与字符串 的反向链接列表"
-            }
-          },
-          {
             "id": "bbd43141342780aa",
             "type": "leaf",
             "state": {
@@ -176,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,7 +175,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7e60af5f0b3e5b4",
+  "floating": {
+    "id": "02763c4fa1af439d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "40f4561226d3357b",
+        "type": "window",
+        "children": [
+          {
+            "id": "15c3ac34a4b7a438",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d9d92fc0a9152665",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "一些关于平面设计的讨论/从规律中学习方法.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "从规律中学习方法 的反向链接列表"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1004,
+        "y": 82,
+        "width": 602,
+        "height": 602,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d9d92fc0a9152665",
   "lastOpenFiles": [
     "1.变量与字符串.md",
     "一些关于平面设计的讨论/从规律中学习方法.md",
