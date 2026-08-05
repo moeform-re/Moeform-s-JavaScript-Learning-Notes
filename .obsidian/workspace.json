@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,9 +198,9 @@
   },
   "active": "c7e60af5f0b3e5b4",
   "lastOpenFiles": [
+    "一些基础工具的一些我需要知道的事/初始化仓库.md",
     "一些关于数学的随手笔记/2022高教杯B题优秀论文B035.md",
     "obisidian公式输入练习.md",
-    "一些基础工具的一些我需要知道的事/初始化仓库.md",
     "1.变量与字符串.md",
     "一些基础工具的一些我需要知道的事",
     "关于托马斯微积分/预备知识.md",
