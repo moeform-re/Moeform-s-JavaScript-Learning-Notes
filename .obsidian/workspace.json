@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily_MorForm/2026-8-6 Moe-Form：Brand New Day.md",
+                "file": "一些关于数学的随手笔记/2022高教杯B题优秀论文B035.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-8-6 Moe-Form：Brand New Day"
+              "title": "2022高教杯B题优秀论文B035"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -88,25 +90,6 @@
         "id": "6edb847ca4f8cd7e",
         "type": "tabs",
         "children": [
-          {
-            "id": "d9d92fc0a9152665",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1.变量与字符串.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "1.变量与字符串 的反向链接列表"
-            }
-          },
           {
             "id": "bbd43141342780aa",
             "type": "leaf",
@@ -156,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.变量与字符串.md",
+                "file": "一些关于数学的随手笔记/2022高教杯B题优秀论文B035.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.变量与字符串 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -174,9 +157,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "c404a09d51d7698e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "一些关于数学的随手笔记/矩阵与线性变换.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "矩阵与线性变换 的反向链接列表"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,18 +198,19 @@
   },
   "active": "c7e60af5f0b3e5b4",
   "lastOpenFiles": [
-    "1.变量与字符串.md",
-    "README.md",
-    "obisidian公式输入练习.md",
     "Daily_MorForm/2026-8-6 Moe-Form：Brand New Day.md",
+    "关于托马斯微积分/预备知识.md",
     "一些关于数学的随手笔记/2022高教杯B题优秀论文B035.md",
     "Daily_MorForm",
-    "未命名.md",
-    "一些关于平面设计的讨论/从规律中学习方法.md",
-    "关于托马斯微积分/预备知识.md",
     "关于托马斯微积分/前言.md",
+    "一些关于平面设计的讨论/从规律中学习方法.md",
+    "obisidian公式输入练习.md",
+    "一些关于数学的随手笔记/矩阵与线性变换.md",
     "关于托马斯微积分",
+    "一些关于数学的随手笔记/未命名.md",
+    "1.变量与字符串.md",
     "一些关于数学的随手笔记",
-    "一些关于平面设计的讨论"
+    "一些关于平面设计的讨论",
+    "README.md"
   ]
 }
