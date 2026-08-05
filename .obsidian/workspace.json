@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9a237e5145ca6b03",
@@ -183,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a166f1bd194ddaaa",
+  "active": "c7e60af5f0b3e5b4",
   "lastOpenFiles": [
     "一些关于数学的随手笔记/2022高教杯B题优秀论文B035.md",
     "obisidian公式输入练习.md",
