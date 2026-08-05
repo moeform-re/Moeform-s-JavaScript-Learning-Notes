@@ -97,12 +97,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.变量与字符串.md",
+                "file": "一些基础工具的一些我需要知道的事/初始化仓库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1.变量与字符串 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -179,12 +179,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7e60af5f0b3e5b4",
+  "active": "a166f1bd194ddaaa",
   "lastOpenFiles": [
     "一些关于数学的随手笔记/2022高教杯B题优秀论文B035.md",
     "obisidian公式输入练习.md",
